@@ -8,10 +8,7 @@
         <p class="py-6">
           Keep track of your travels and adventures. Add locations, photos, and notes to create a digital journal of your journeys.
         </p>
-        <NuxtLink class="btn btn-accent">
-          Sign in With Github
-          <Icon name="tabler:brand-github" size="24" />
-        </NuxtLink>
+        <AuthButton />
       </div>
     </div>
   </div>

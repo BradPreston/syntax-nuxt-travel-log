@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "6",
-      "when": 1754774795670,
-      "tag": "0000_square_glorian",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "6",
-      "when": 1754840424024,
-      "tag": "0001_moaning_paladin",
+      "when": 1756936922385,
+      "tag": "0000_flawless_sentinels",
       "breakpoints": true
     }
   ]
